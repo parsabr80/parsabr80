@@ -46,7 +46,7 @@ technical_background:
     "Intern - Frontend Development using HTML, CSS, JavaScript, and React",
   ]
 
-currently_learning: ["C++ and its Libraries (STL, Boost, etc.)"]
+currently_learning: ["React Native, Android & iOS App Development"]
 hobbies: ["Gaming", "Coding", "Sport", "Comedy"]
 
 ```
